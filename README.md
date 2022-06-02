@@ -16,7 +16,17 @@ This repository is a collection of papers related to cybersecurity.
     <li><a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2782&context=cstech">Trojaning Attack on Neural Networks</a></li>
     <li><a href="https://dl.acm.org/doi/abs/10.1145/3190645.3190692?casa_token=7SJV1E6ue3gAAAAA:bUm2vo1ANw4JyuyRfWRiFVS6ymH2PXgtZzaBH1I6P9mFjmqAZ7jiH5zN9zyaILTyEmpBko5EOwAm">Malware classification using deep learning methods</a></li>
     <li><a href="https://ieeexplore.ieee.org/abstract/document/7399288">Droiddetector: android malware characterization and detection using deep learning</a></li>
+    <li><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8359287">Machine Learning and Deep Learning Methods for Cybersecurity</a></li>
+    <li><a href="https://ieeexplore.ieee.org/document/6963442">Web Application Vulnerability Prediction Using Hybrid Program Analysis and Machine Learning</a></li>
+    <li><a href="https://ieeexplore.ieee.org/document/8887303">Malware Detection with Malware Images using Deep Learning Techniques</a></li>
   </ul>
+</details>
+
+<details>
+  <summary>Cybersecurity X Blockchain</summary>
+  <ul>
+    <li><a href="https://ieeexplore.ieee.org/document/8326530">Distributed Blockchain-Based Data Protection Framework for Modern Power Systems Against Cyber Attacks</a></li>
+    <li><a href="https://ieeexplore.ieee.org/abstract/document/8248427">From Bitcoin to cybersecurity: A comparative study of blockchain application and security issues</a></li>
 </details>
 
 
