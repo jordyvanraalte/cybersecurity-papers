@@ -27,6 +27,18 @@ This repository is a collection of papers related to cybersecurity.
   <ul>
     <li><a href="https://ieeexplore.ieee.org/document/8326530">Distributed Blockchain-Based Data Protection Framework for Modern Power Systems Against Cyber Attacks</a></li>
     <li><a href="https://ieeexplore.ieee.org/abstract/document/8248427">From Bitcoin to cybersecurity: A comparative study of blockchain application and security issues</a></li>
+    <li><a href="https://ieeexplore.ieee.org/abstract/document/8845101">ABC: A Cryptocurrency-Focused Threat Modeling Framework</a></li>
+    <li><a href="https://www.mdpi.com/2076-3417/11/17/7880">Avoidance of Cybersecurity Threats with the Deployment of a Web-Based Blockchain-Enabled Cybersecurity Awareness System </a></li>
+    </ul>
+</details>
+  
+<details>
+  <summary>Cybersecurity awareness</summary>
+  <ul>
+    <li><a href="https://www.sciencedirect.com/science/article/pii/S2212868921000581">Cybersecurity awareness for children: A systematic literature review</a></li>
+    <li><a href="https://www.sciencedirect.com/science/article/pii/S0740624X17300540">Building cybersecurity awareness: The need for evidence-based
+framing strategies</a></li>
+   </ul>
 </details>
 
 
